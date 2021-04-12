@@ -1,7 +1,7 @@
 import unittest
 from datetime import datetime, timedelta
 
-from app import app, db
+from app import db
 from app.models import User, Post
 
 
